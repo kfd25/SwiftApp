@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by Kevin Fernandes Duarte on 21/10/2018.
-//  Copyright © 2018 KFD. All rights reserved.
+//  Copyright © 2018 KFD. All rights reserved...
 //
 
 import UIKit
